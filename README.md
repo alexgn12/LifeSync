@@ -15,14 +15,14 @@
 ---
 
 ## 📦 Estructura del proyecto
-
+```
 LifeSync/
 │
 ├── LifeSync.API ← Punto de entrada de la API
 ├── LifeSync.Application ← Interfaces, DTOs, servicios abstractos
 ├── LifeSync.Domain ← Entidades principales del modelo de negocio
 ├── LifeSync.Infrastructure ← DbContext, repositorios e implementación de servicios
-
+```
 ---
 
 ## ✅ Funcionalidades principales
