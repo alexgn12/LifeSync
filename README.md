@@ -57,7 +57,9 @@ dotnet run --project LifeSync.API
 
 http://localhost:5057/swagger
 
-🔐 Prueba de autenticación
+---
+
+## 🔐 Prueba de autenticación
 1. Llama a POST /api/auth/register para crear un usuario
 
 2. Llama a POST /api/auth/login y copia el token
@@ -68,7 +70,9 @@ Bearer ey...
 
 4. Ya puedes acceder a los endpoints protegidos (/api/profile, /api/routines, etc.)
 
-📚 Próximas funcionalidades (roadmap)
+---
+
+## 📚 Próximas funcionalidades (roadmap)
  Generación automática de planificación diaria
 
  Generador de menús semanales personalizado
@@ -79,7 +83,7 @@ Bearer ey...
 
  Exportación del plan del día a PDF o app frontend
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 Desarrollado por Alejandro Guerra, ingeniero de telecomunicación y programador backend.
 
 📬 Contacto: [alexguerran2002@gmail.com]
